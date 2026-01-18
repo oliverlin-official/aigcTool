@@ -1,0 +1,7 @@
+{
+  "name": "Gemini 3D Camera Image Generator",
+  "description": "A sophisticated tool that allows users to upload images and generate new perspectives using Gemini's image-to-image capabilities, controlled by an interactive 3D camera viewport.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
